@@ -1,4 +1,9 @@
-# packr.dev
+# Packr Landing Page + Blog
+
+<img src="images/packr.png" height="180">
+
+<br>
+
 
 ## Project setup
 ```
@@ -24,6 +29,3 @@ yarn test:unit
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
